@@ -38,7 +38,7 @@ Vitória Neves
 Fernando Pires
 Luana Fonseca
 Ricardo Dantas
-Ana Silva
+Bruno Almeida
 João Santos
 Maria Oliveira
 Pedro Souza
@@ -47,4 +47,4 @@ Lucas Pereira
 Beatriz Rodrigues
 Gabriel Almeida
 Camila Ferreira
-Rafael Gomes
+Bruno Gomes
